@@ -23,7 +23,7 @@ Tech I use:
 
 </div>
 
-
+<br>
 <details> 
      <summary>:bulb: Github Stats</summary>
 
