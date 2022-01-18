@@ -33,3 +33,6 @@ Tech I use:
 📫 Contact Me
 
 - muradrahmanzada@gmail.com
+
+
+That's all, and thank you very much.
