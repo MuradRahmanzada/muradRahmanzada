@@ -22,6 +22,13 @@ Tech I use:
      width = "25" height = "25" align = "center"> </img>
 
 </div>
+
+
+<details> 
+     <summary>:bulb: Github Stats</summary>
+
+
+</details>
      
      
     
