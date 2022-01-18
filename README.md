@@ -6,6 +6,8 @@ I am Murad. I have been developing myself in this field for a long time. I love 
 
 Tech I use:
 
+<div style= "display: inline-block"><br>
+     
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "25" 
      height= "25" align = "center"> </img> 
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
@@ -18,6 +20,8 @@ Tech I use:
      width = "25" height = "25" align = "center"> </img>
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
      width = "25" height = "25" align = "center"> </img>
+
+</div>
      
      
     
