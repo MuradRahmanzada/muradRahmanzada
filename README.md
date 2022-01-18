@@ -22,6 +22,7 @@ Tech I use:
      width = "25" height = "25" align = "center"> </img>
 </div>
 
+<br>
 <details> 
      <summary>:bulb: Most Used Languages</summary>
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muradrahmanzada&langs_count=8"></img>
