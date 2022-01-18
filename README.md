@@ -24,15 +24,16 @@ Tech I use:
 
 <details> 
      <summary>:bulb: Github Stats</summary>
-
-
+     <img src = "https://github-readme-stats.vercel.app/api?username=muradrahmanzada"></img>
 </details>
+
+<details> 
+     <summary>:bulb: Most Used Languages</summary>
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muradrahmanzada&langs_count=8"></img>
+</details>
+
+
      
-     
-    
-
-
-
 📫 Contact Me
 
 - muradrahmanzada@gmail.com
