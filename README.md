@@ -9,7 +9,7 @@ Tech I use:
 <div style= "display: inline-block">
      
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "25" 
-     height= "25" align = "center"> </img> 
+     height= "25" align = "center" margin-left = "15px"> </img> 
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
      width = "25" height = "25" align = "center" > </img>
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
