@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front End Developer
 
-I am Murad. I have been developing myself in this field for a long time. I love this job, I think I will be more successful here. I am not a professional in this field, but I think the work I do is interesting and at a good level.
+I'm Murad, and I'd want to introduce myself to you. It's been a while, I've been   developing my skills in this area. This is my favorite job, and I believe I'll be more successful here. Although I am not an expert in this sector, I believe the work I perform is fascinating and of high quality.
 
 Tech I use:
 
