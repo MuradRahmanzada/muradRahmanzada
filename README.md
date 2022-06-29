@@ -39,6 +39,7 @@ Tech I use:
 📫 Contact Me
 
 - muradrahmanzada@gmail.com
+- https://www.linkedin.com/in/murad-rahmanzada
 
 
 That's all, and thank you very much.
