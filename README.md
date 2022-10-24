@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Front End Developer
 
-I'm Murad, and I'd want to introduce myself to you. It's been a while, I've been   developing my skills in this area. This is my favorite job, and I believe I'll be more successful here. Although I am not an expert in this sector, I believe the work I perform is fascinating and of high quality.
+I'm Murad, and I'd want to introduce myself to you. I am a front-end developer with 1+ years of experience, motivated and ambitious excellent communication skills. I am energetic and have developed a mature and responsible approach to any task I undertake or situation I encounter.
+
+Problem solver and team player. Innovative, continuously improving skills and processes. Creative, decision-maker, collaborator.
 
 Tech I use:
 
